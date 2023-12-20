@@ -123,7 +123,7 @@ public class House {
 		}
 		else
 		{
-			System.out.println("No Rooms in the house\n do you like to add rooms y/n");
+			System.out.println("No Rooms avaliable in the house\n do you like to add rooms y/n");
 			String ans=sc.nextLine();
 			if(ans.equals("y"))
 			{
