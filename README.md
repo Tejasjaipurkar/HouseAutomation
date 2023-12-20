@@ -1,2 +1,3 @@
 # HouseAutomation
-my java case study
+my java case study 
+successfully pushed to github
